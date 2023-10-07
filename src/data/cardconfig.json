@@ -1,0 +1,36 @@
+{
+    "title":"SWEEET SHOP",
+   
+    "theme":{
+        "danger":"red",
+        "secondaryColor":"#b35900",
+        "accentColor":"ccf5ff"
+    },
+    "cards":[
+        {
+            "title":"BESTSELLERAssorted Mithai",
+            "img" : "https://bombaysweetshop.com/cdn/shop/files/AssortedMithai-Boxof9_BombaySweetShop-min.jpg?v=1693994422&width=360",
+            "value": "Ru. 650",
+            "text": "A box of 9 assorted mithai touched by the magic of mithai! Hand-made with love one by one."  
+        },
+        {
+            "title":"Chilli Cheese Bhujia (225g)",
+            "img": "https://bombaysweetshop.com/cdn/shop/files/ChilliCheeseBhujia_225g_2-Packof1_Diwali2023_BombaySweetShop-min_31ba6c87-d469-4f17-a70b-b5f4699b8898.jpg?v=1696419668&width=360",
+            "value": "Ru. 412",
+            "text": "Besan Bhujia tossed in the timeless combination of chilli & cheese! Each pack contains 225gms of Bhujia."
+        },
+        {
+            "title":"Mithal Sweets",
+            "img": "https://bombaysweetshop.com/cdn/shop/files/MotichurLaddu-Boxof9_Diwali2023_BombaySweetShop-min.jpg?v=1696408022&width=990",
+            "value": "Ru. 540",
+            "text": "A happy kitchen accident, this sharp edged dark chocolate and butterscotch brittle is loaded with crunch and nostalgia." 
+        },
+        {
+            "title":"chocko",
+            "img": "https://bombaysweetshop.com/cdn/shop/files/DiwaliDelightBox_Diwali2023_B-min.jpg?v=1695723865&width=360",
+            "value": "Ru. 417",
+            "text": "Our sweet take on the old school & traditional boondi laddu, an all-season treat! Hand-made with love one by one" 
+        }
+                                       
+    ]
+}
